@@ -1,2 +1,2 @@
-# wp-theme-dev-Resources
-# wp-theme-dev-Resources
+## Wp theme development Personal Resources
+
