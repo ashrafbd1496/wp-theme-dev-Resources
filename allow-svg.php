@@ -26,7 +26,7 @@ add_filter( 'upload_mimes', 'cc_mime_types' );
 
 function fix_svg() {
   echo '<style type="text/css">
-        .attachment-266x266, .thumbnail img {
+        .attachment-250x250, .thumbnail img {
              width: 100% !important;
              height: auto !important;
         }
