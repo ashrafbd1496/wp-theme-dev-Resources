@@ -1,2 +1,2 @@
-## wp theme development Personal Resources
+## Wp theme development Personal Resources
 
